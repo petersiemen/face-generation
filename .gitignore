@@ -1,3 +1,5 @@
 .venv
 .idea
+processed_celeba_small
+.ipynb_checkpoints
 
